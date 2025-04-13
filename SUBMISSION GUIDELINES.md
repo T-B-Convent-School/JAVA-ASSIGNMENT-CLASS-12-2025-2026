@@ -1,5 +1,5 @@
 ---
-## 📎 :
+## 📎 SUBMISSION GUIDELINES :
 - Each assignment must include:
   - Program code (well-indented and commented)
   - Sample output screenshot (if applicable)
