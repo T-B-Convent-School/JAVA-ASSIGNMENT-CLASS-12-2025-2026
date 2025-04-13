@@ -1,3 +1,4 @@
+
 ---
 ### 🔹 **: Simple GUI (Optional/Bonus)**
 **Objective:** Introduce basic Java GUI with Swing or JavaFX.  
