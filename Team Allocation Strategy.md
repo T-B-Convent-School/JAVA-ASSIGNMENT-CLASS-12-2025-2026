@@ -56,5 +56,4 @@
 - **Format**: `.java` file + `.pdf` report
 
 ---
-
-Would you like a printable version (PDF or DOCX) of this structure for submission or classroom use?
+>>IT IS ONLY REFERENCE , CHANGES COMING SOON....
