@@ -93,6 +93,8 @@ Create a class `Book` with:
 Refer to [SUBMISSION GUIDELINE](./SUBMISSION%20GUIDELINES.md) for proper formatting and submission procedures.
 
 ---
+
 ## 👥 Team Allocation Strategy
 Refer to [Team Allocation Strategy](./Team%20Allocation%20Strategy.md) for proper Strategy.
+
 ---
